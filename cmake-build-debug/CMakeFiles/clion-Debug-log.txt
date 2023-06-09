@@ -1,0 +1,4 @@
+C:\Users\xdoyo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/xdoyo/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe -DCMAKE_PREFIX_PATH=C:\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake -G Ninja -S C:\Users\xdoyo\Desktop\JetBrains\CLion\Research -B C:\Users\xdoyo\Desktop\JetBrains\CLion\Research\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug

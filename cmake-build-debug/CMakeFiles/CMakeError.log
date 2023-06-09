@@ -1,0 +1,13 @@
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0xwjk9
+
+Run Build Command(s):C:/Users/xdoyo/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe cmTC_3b2ab && [1/2] Building C object CMakeFiles/cmTC_3b2ab.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_3b2ab.exe
+FAILED: cmTC_3b2ab.exe 
+cmd.exe /C "cd . && C:\Users\xdoyo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=sgemm_  CMakeFiles/cmTC_3b2ab.dir/CheckFunctionExists.c.obj -o cmTC_3b2ab.exe -Wl,--out-implib,libcmTC_3b2ab.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Users\xdoyo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_3b2ab.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `sgemm_'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+

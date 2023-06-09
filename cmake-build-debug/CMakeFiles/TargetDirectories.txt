@@ -1,0 +1,4 @@
+C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug/CMakeFiles/Research.dir
+C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/xdoyo/Desktop/JetBrains/CLion/Research/cmake-build-debug/CMakeFiles/Research_autogen.dir
